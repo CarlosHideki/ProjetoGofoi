@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"github.com/faelp22/tcs_curso/stoq/entity"
-	"github.com/hyperyuri/repository-pattern-go/database"
 )
 
 type ProductRepository struct {
